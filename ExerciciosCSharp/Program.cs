@@ -58,15 +58,15 @@ namespace ExerciciosCSharp
                     case 0:
                         Console.WriteLine("\nSaindo do programa...");
                         break;
-                    case 1:  Exercicio1.Executar(); break;
-                    case 2:  Exercicio2.Executar(); break;
-                    case 3:  Exercicio3.Executar(); break;
-                    case 4:  Exercicio4.Executar(); break;
-                    case 5:  Exercicio5.Executar(); break;
-                    case 6:  Exercicio6.Executar(); break;
-                    case 7:  Exercicio7.Executar(); break;
-                    case 8:  Exercicio8.Executar(); break;
-                    case 9:  Exercicio9.Executar(); break;
+                    case 1:  Exercicio01.Executar(); break;
+                    case 2:  Exercicio02.Executar(); break;
+                    case 3:  Exercicio03.Executar(); break;
+                    case 4:  Exercicio04.Executar(); break;
+                    case 5:  Exercicio05.Executar(); break;
+                    case 6:  Exercicio06.Executar(); break;
+                    case 7:  Exercicio07.Executar(); break;
+                    case 8:  Exercicio08.Executar(); break;
+                    case 9:  Exercicio09.Executar(); break;
                     case 10: Exercicio10.Executar(); break;
                     case 11: Exercicio11.Executar(); break;
                     case 12: Exercicio12.Executar(); break;
